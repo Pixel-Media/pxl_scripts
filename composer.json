@@ -3,6 +3,7 @@
 	"type": "library",
 	"description": "My shared scripts",
 	"version": "0.1",
+	"license": "proprietary",
 	"authors": [
 		{
 			"name": "Pixel Media"

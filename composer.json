@@ -12,6 +12,8 @@
 	"support": {
 		"source": "https://github.com/Pixel-Media/pxl_scripts.git"
 	},
+	"minimum-stability": "dev",
+	"prefer-stable": true,
 	"require": {
 		"php": "^7.0"
 	},

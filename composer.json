@@ -2,7 +2,7 @@
 	"name": "vallarinoj/pxl_scripts",
 	"type": "library",
 	"description": "My shared scripts",
-	"version": "1.0",
+	"version": "1.0.0",
 	"license": "proprietary",
 	"authors": [
 		{
@@ -17,5 +17,8 @@
 		"php": ">=7.0"
 	},
 	"require-dev": {
-	}
+	},
+    "autoload": {
+        	"files": ["custom-func-libreria.php", "pxl_auth.php"]
+    }
 }

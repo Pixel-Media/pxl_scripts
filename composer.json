@@ -2,6 +2,7 @@
 	"name": "vallarinoj/pxl_scripts",
 	"type": "library",
 	"description": "My shared scripts",
+	"version": "0.1",
 	"authors": [
 		{
 			"name": "Pixel Media"

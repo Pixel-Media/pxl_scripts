@@ -1,18 +1,20 @@
 <?php
-/**
- * [para limpiar números de teléfono]
- * @param  string $telefono el número de teléfono completo sin limpiar
- * @return string           el número limpio
- */
-function limpiar_tel($telefono){
-    $telefono=str_replace("-", "",$telefono);
-    $telefono=str_replace("(", "",$telefono);
-    $telefono=str_replace(")", "",$telefono);
-    $telefono=str_replace(".", "",$telefono);
-    $telefono=str_replace(" ", "",$telefono);
-    return $telefono;
+if(!function_exists('limpiar_tel')){
+    /**
+     * [para limpiar números de teléfono]
+     * @param  string $telefono el número de teléfono completo sin limpiar
+     * @return string           el número limpio
+     */
+    function limpiar_tel($telefono){
+        $telefono=str_replace("-", "",$telefono);
+        $telefono=str_replace("(", "",$telefono);
+        $telefono=str_replace(")", "",$telefono);
+        $telefono=str_replace(".", "",$telefono);
+        $telefono=str_replace(" ", "",$telefono);
+        return $telefono;
+    }
 }
-
+if(!function_exists('format_fecha')){
 /**
  * Devuelve la fecha formateada d/m/Y
  * @param  int $fecha La fecha en timestamp
@@ -25,6 +27,8 @@ function limpiar_tel($telefono){
             return '';
         }
     }
+}
+if(!function_exists('limpiar_input')){
     /**
  * Sanitiza un input de usuario
  * @param  'string'  $string_name La variable a limpiar
@@ -167,6 +171,8 @@ function limpiar_input($string_name, $metodo = 'post',  $tipo = 'string', $stric
         }
         return $var;
     }
+}
+if(!function_exists('nombre_tabla')){
 /**
  * Devuelve un valor de un item para una tabla
  * @param  int  $id           El id buscado
@@ -196,6 +202,8 @@ function nombre_tabla($id, $tabla, $campo = 'nombre', $nombre_id = 'id'){
         return '';
     }
 }
+}
+if(!function_exists('valid_mail')){
 
 /**
  * Verifica si el correo es válido
@@ -205,6 +213,8 @@ function nombre_tabla($id, $tabla, $campo = 'nombre', $nombre_id = 'id'){
 function valid_mail($mail){
     return filter_var($mail, FILTER_VALIDATE_EMAIL) && preg_match('/@.+\./', $mail);
 }
+}
+if(!function_exists('createselectitems')){
 
 // Crea las opciones de un campo select, las variables que se dan son el query ya hecho, el objeto seleccionado, el campo del valor ( o sea en la tabla como se llama el campo del valor en el select) y el campo del nombre (en la tabla) si no se tiene nada seleccionado apararece un texto, seleccione uno.
 //la variable limpiear, la quinta, es booleana, true, si desea poner una opcion, que se pueda limpiar la seleccion (opcion todos).
@@ -227,6 +237,8 @@ function createselectitems($query, $selected, $campovalor, $camponombre, $limpia
     }
     return $output;
 }
+}
+if(!function_exists('createselectitems_array')){
 // Crea las opciones de un campo select, las variables que se dan son el array ya hecho, el objeto seleccionado, EL ARRAY DEBE VENIR EN EL FORMATO (la llave sera el valor del select y el valor en el array será el display en el select). Si no se tiene nada seleccionado apararece un texto, seleccione uno.
 function createselectitems_array($array, $selected, $limpiar = false, $idioma = 'es'){
     global $seleccione_txt, $limpiar_txt;
@@ -248,6 +260,8 @@ function createselectitems_array($array, $selected, $limpiar = false, $idioma = 
     }
     return $output;
 }
+}
+if(!function_exists('id_slug')){
 /**
  * le etregas un slug y retorna un id
  * @param  [type] $slug        [description]
@@ -268,6 +282,8 @@ function id_slug($slug, $tabla, $nombre_slug="slug"){
         return false;
     }
 }
+}
+if(!function_exists('redirect')){
 /**
  * Redirige automaticamente a la pagina que se envia, es null se regresa a index.php
  * @param  [type] $dir [description]
@@ -280,5 +296,6 @@ function redirect($dir = NULL){
     }
     header('Location: '.$dir);
     die();
+}
 }
 ?>

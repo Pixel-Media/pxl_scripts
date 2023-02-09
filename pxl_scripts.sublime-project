@@ -1,0 +1,1954 @@
+{
+	/*"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"DB_",
+				"$DB_SERVER"
+			],
+			[
+				"arra",
+				"$array_add"
+			],
+			[
+				"item",
+				"item_no_usar"
+			],
+			[
+				"st",
+				"$stylesheets"
+			],
+			[
+				"li",
+				"$links_con_idioma"
+			],
+			[
+				"lang",
+				"lang_strings"
+			],
+			[
+				"lang_stri",
+				"lang_strings"
+			],
+			[
+				"qs_",
+				"$qs_val"
+			],
+			[
+				"ur",
+				"$url_add_parsed"
+			],
+			[
+				"fun",
+				"$funcion"
+			],
+			[
+				"galer",
+				"galerias_img_md_w"
+			],
+			[
+				"n",
+				"nombre_db"
+			],
+			[
+				"_S",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"pxl_di_c",
+				"pxl_di_code"
+			],
+			[
+				"nom",
+				"nombre_id_relacion"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"modu",
+				"submodulos"
+			],
+			[
+				"for",
+				"format_js"
+			],
+			[
+				"confi",
+				"config_vars"
+			],
+			[
+				"dis",
+				"display_func_params"
+			],
+			[
+				"my",
+				"$mysql"
+			],
+			[
+				"no",
+				"$nombre_campo_relacion"
+			],
+			[
+				"pxl_data_item_up",
+				"pxl_data_item_upload_image"
+			],
+			[
+				"pxl_da",
+				"pxl_data_item"
+			],
+			[
+				"url",
+				"$url_upload_contenido"
+			],
+			[
+				"var",
+				"$var_upload"
+			],
+			[
+				"url_",
+				"$dir_upload_galerias"
+			],
+			[
+				"nombre",
+				"nombre_db"
+			],
+			[
+				"pxl_data_item_",
+				"pxl_data_item_fecha"
+			],
+			[
+				"col",
+				"$col_nombre"
+			],
+			[
+				"DBA_MENUC",
+				"DBA_MENU_CONTENIDO_ITEMS"
+			],
+			[
+				"DBA_MEN",
+				"DBA_MENU_CONTENIDO_ITEMS"
+			],
+			[
+				"DBA_ME",
+				"DBA_MENU_CONTENIDO_ITEMS"
+			],
+			[
+				"DBA_C",
+				"DBA_MENU_CONTENIDO_ITEMS"
+			],
+			[
+				"nomb",
+				"nombre_explicacion"
+			],
+			[
+				"req",
+				"$request"
+			],
+			[
+				"ba",
+				"setBasePath"
+			],
+			[
+				"base",
+				"$basePath"
+			],
+			[
+				"obj",
+				"obj_data"
+			],
+			[
+				"fe",
+				"fetch_assoc"
+			],
+			[
+				"fech",
+				"fecha_min"
+			],
+			[
+				"fecha_",
+				"fecha_min"
+			],
+			[
+				"op",
+				"opciones_pantalla"
+			],
+			[
+				"gal",
+				"gal_in_item"
+			],
+			[
+				"nombr",
+				"nombre_var"
+			],
+			[
+				"gl",
+				"galeria_item"
+			],
+			[
+				"main",
+				"$main_url_admin"
+			],
+			[
+				"cant_",
+				"cant_items"
+			],
+			[
+				"ad",
+				"addLayer"
+			],
+			[
+				"p",
+				"permite_borrar_items"
+			],
+			[
+				"canti",
+				"cantidad_max_items"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"echo",
+				"$echo_q"
+			],
+			[
+				"vr",
+				"$var_name"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"pxl_ini",
+				"pxl_init_maps_open"
+			],
+			[
+				"nombre_",
+				"nombre_db"
+			],
+			[
+				"_SE",
+				"$_SESSION"
+			],
+			[
+				"ht",
+				"html_content"
+			],
+			[
+				"color_gr",
+				"color_gris_claro"
+			],
+			[
+				"tim",
+				"timestamp_fin"
+			],
+			[
+				"RE",
+				"REMOTE_ADDR"
+			],
+			[
+				"v",
+				"valor_actual"
+			],
+			[
+				"es",
+				"es_nullable"
+			],
+			[
+				"es_",
+				"es_nullable"
+			],
+			[
+				"va",
+				"valor_actual"
+			],
+			[
+				"main_ur",
+				"main_url_admin"
+			],
+			[
+				"aja",
+				"ajax_process"
+			],
+			[
+				"exte",
+				"extension"
+			],
+			[
+				"tex",
+				"text-overflow"
+			],
+			[
+				"per",
+				"permanentLogin"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"passw",
+				"password"
+			],
+			[
+				"ca",
+				"callback_val"
+			],
+			[
+				"cal",
+				"callback_var"
+			],
+			[
+				"call",
+				"callback_arg"
+			],
+			[
+				"dat",
+				"data_externa"
+			],
+			[
+				"d",
+				"data_externa"
+			],
+			[
+				"main_r",
+				"main_url_admin"
+			],
+			[
+				"mostra",
+				"mostrar_cantidad"
+			],
+			[
+				"sub",
+				"submodulos"
+			],
+			[
+				"valo",
+				"valor_actual"
+			],
+			[
+				"tipo",
+				"tipo_dato"
+			],
+			[
+				"ti",
+				"tipo_dato"
+			],
+			[
+				"crear",
+				"crear_input"
+			],
+			[
+				"ob_",
+				"ob_end_clean"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"multi",
+				"multiples_archivos"
+			],
+			[
+				"reco",
+				"recoger_var"
+			],
+			[
+				"line",
+				"linea_extra"
+			],
+			[
+				"se",
+				"session_name"
+			],
+			[
+				"q_",
+				"q_adicional"
+			],
+			[
+				"sho",
+				"show_errors"
+			],
+			[
+				"amp",
+				"ampm_add"
+			],
+			[
+				"format_fe",
+				"format_fecha_hora()\tmixed"
+			],
+			[
+				"array_",
+				"array_valores"
+			],
+			[
+				"res",
+				"result_val"
+			],
+			[
+				"aut",
+				"autoreferencia"
+			],
+			[
+				"au",
+				"autoreferencia"
+			],
+			[
+				"auto",
+				"autoreferencia_data"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"color_",
+				"color_naranja"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"data_",
+				"data_item-"
+			],
+			[
+				"htm",
+				"html_actions"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"mostrar_",
+				"mostrar_input"
+			],
+			[
+				"scr",
+				"script_permitidos"
+			],
+			[
+				"htacces",
+				"htaccess_val"
+			],
+			[
+				"htaccess_va",
+				"htaccess_val_extra"
+			],
+			[
+				"fill_co",
+				"fill_coords"
+			],
+			[
+				"file",
+				"fileHandle"
+			],
+			[
+				"php",
+				"PhpOffice"
+			],
+			[
+				"hea",
+				"header_footer"
+			],
+			[
+				"hae",
+				"header_footer"
+			],
+			[
+				"sistem",
+				"sistema_en_mantenimiento"
+			],
+			[
+				"max",
+				"max_zoom"
+			],
+			[
+				"adicion",
+				"adicional_mostrar"
+			],
+			[
+				"poly",
+				"polyline"
+			],
+			[
+				"adi",
+				"adicional_mostrar_todos"
+			],
+			[
+				"temp",
+				"temp_dir"
+			],
+			[
+				"lat",
+				"lat_lng"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			]
+		]
+	},*/
+	/*"buffers":
+	[
+	],*/
+	/*"build_system": "",*/
+	/*"build_system_choices":
+	[
+	],*/
+	/*"build_varint": "",*/
+	/*"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"comm",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacl",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"",
+				"Git: Init"
+			],
+			[
+				"commi",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git:p",
+				"Git: Push"
+			],
+			[
+				"git:c",
+				"Git: Commit"
+			],
+			[
+				"git:a",
+				"Git: Add..."
+			],
+			[
+				"git: co",
+				"Git: Commit"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},*/
+	/*"console":
+	{
+		"height": 277.0,
+		"history":
+		[
+			"lessc \"allcss.less\"",
+			"lessc allcss.less",
+			"cd ",
+			"cd..",
+			"cd ..",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},*/
+	/*"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},*/
+	/*"expanded_folders":
+	[
+		"/C/WEB PROYECTOS/PIXEL MEDIA/custom_func"
+	],*/
+	/*"file_history":
+	[
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/admin_db_soft.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/.gitmodules",
+		"/C/Users/valla_000/AppData/Local/Temp/Rar$DIa1976.36499/index.php",
+		"/C/Users/valla_000/AppData/Local/Temp/Rar$DIa1976.39745/file.inc.php",
+		"/C/Users/valla_000/AppData/Local/Temp/Rar$DIa1976.31540/compile.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/modulos_ver_pdf.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/modulos_reporte_xlsx.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_contenido.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/customfuncs.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/globals.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/filtro_item.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/templating.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/sftp-config.json",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/sessions_mysql.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/session.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/db_tables.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/db.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/auth.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/adminer.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_bloqueos.php",
+		"/C/Users/valla_000/Desktop/adminer-4.8.1-mysql-en.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/db_version/version_4.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/adminer_extras.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/css/adminer.scss",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/adminer.css",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/db_version/version_8.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/db_version/version_7.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/db_version/version_6.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/db_version/version_5.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/top.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/modulos_ver.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/modulos_reporte_csv.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/modulos.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/mainscripts.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/installer.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/db_version/index.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/backup.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/modulos_admin.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/modulos_reporte_pdf.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/modulos_reporte.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/scripts/sweetalert2/src/sweetalert2.scss",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/gruntfile.js",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/modulos_del.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_ext.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_color.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_lang_strings.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_idiomas.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/scripts/autosize/autosize.min.js",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/scripts/kcfinder/core/autoload.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_widgets.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_menu_sitio.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/headers.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/templates/sidebar.tpl",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/scripts/tinymce/tinymce.min.js",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/scripts/pxl_mailer/pxl_mailer.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_html.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/backup.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/scripts/tinymce/plugins/colorpicker/plugin.min.js",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/modulos_add.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/scripts/execute.js",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/scripts/alljs.min.js",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/ajax_add.js",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/ajax.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/administradores.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_pantalla.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_ext2.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_checkbox.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_checkbox_ext.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/huellas.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/olvido_pw.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/logout.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/index.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/globals_mod.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/home.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/administradores_roles.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/cambiar_user.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/back.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/api.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/administradores_print.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/administradores_cambiar_pw.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_usuarios_api.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_permisos.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_perfil.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_pantalla_export.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_menu.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_grupos.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/admin_galerias.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_autocomplete.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_html_responsive2.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_maps.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_maps_open.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_select.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_tabla_ext.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_upload.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_upload_image.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_upload_images_ext.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_html_responsive.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_hora.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_fecha.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_fecha_hora.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_display.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_code.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_autocomplete_ext.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_autocomplete_ext.js",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_maps2.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/css/software.less",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/sftp-config-alt9.json",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/css/_software.scss",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/css/allcss.less",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/css/software_print.less",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/sftp-config-alt8.json",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/sftp-config-alt7.json",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/sftp-config-alt5.json",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/sftp-config-alt4.json",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/sftp-config-alt3.json",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/sftp-config-alt2.json",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/sftp-config-alt.json",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/sftp-config-alt6.json",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/scripts/bootstrap-datetimepicker/bootstrap-datetimepicker.min.js",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/scripts/jquery_ui/globalize.js",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/scripts/jquery_ui/jquery-ui.min.js",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/db_version/version_3.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/db_version/version_2.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/db_version/version_1.php",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/.gitignore",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/includes/pxl_mods/data_item_upload_images_ext.js",
+		"/C/WEB PROYECTOS/FRAMEWORK/WWW/subir_arch.php"
+	],*/
+	/*"find":
+	{
+		"height": 30.0
+	},*/
+	/*"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},*/
+	/*"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},*/
+	/*"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],*/
+	/*"incremental_find":
+	{
+		"height": 30.0
+	},*/
+	/*"input":
+	{
+		"height": 42.0
+	},*/
+	/*"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},*/
+	/*"menu_visible": true,*/
+	/*"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},*/
+	/*"output.SFTP":
+	{
+		"height": 0.0
+	},*/
+	/*"output.diagnostics":
+	{
+		"height": 138.0
+	},*/
+	/*"output.find_results":
+	{
+		"height": 0.0
+	},*/
+	/*"pinned_build_system": "Packages/User/sass_correr.sublime-build",*/
+	/*"project": "pxl_scripts.sublime-workspace",*/
+	/*"replace":
+	{
+		"height": 56.0
+	},*/
+	/*"save_all_on_build": true,*/
+	/*"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sf",
+				"sftp-config.json"
+			],
+			[
+				"pxl_f",
+				"includes\\pxl_mods\\filtro_item.php"
+			],
+			[
+				"conte",
+				"admin_contenido.php"
+			],
+			[
+				"glo",
+				"includes\\globals.php"
+			],
+			[
+				"templa",
+				"includes\\templating.php"
+			],
+			[
+				"aut",
+				"includes\\auth.php"
+			],
+			[
+				"db_T",
+				"includes\\db_tables.php"
+			],
+			[
+				"db",
+				"includes\\db.php"
+			],
+			[
+				"blo",
+				"admin_bloqueos.php"
+			],
+			[
+				"cu",
+				"includes\\customfuncs.php"
+			],
+			[
+				"adminer",
+				"adminer.php"
+			],
+			[
+				"8",
+				"includes\\db_version\\version_8.php"
+			],
+			[
+				"7",
+				"includes\\db_version\\version_7.php"
+			],
+			[
+				"ver6",
+				"includes\\db_version\\version_6.php"
+			],
+			[
+				"inst",
+				"includes\\installer.php"
+			],
+			[
+				"t",
+				"includes\\top.php"
+			],
+			[
+				"modu",
+				"includes\\pxl_mods\\modulos.php"
+			],
+			[
+				"_ver",
+				"includes\\pxl_mods\\modulos_ver.php"
+			],
+			[
+				"_csv",
+				"includes\\pxl_mods\\modulos_reporte_csv.php"
+			],
+			[
+				"pxl_b",
+				"includes\\pxl_mods\\backup.php"
+			],
+			[
+				"_admi",
+				"includes\\pxl_mods\\modulos_admin.php"
+			],
+			[
+				"gru",
+				"gruntfile.js"
+			],
+			[
+				"_EXT",
+				"includes\\pxl_mods\\data_item_ext.php"
+			],
+			[
+				"_del",
+				"includes\\pxl_mods\\modulos_del.php"
+			],
+			[
+				"back",
+				"includes\\pxl_mods\\backup.php"
+			],
+			[
+				"gl",
+				"includes\\globals.php"
+			],
+			[
+				"lang",
+				"admin_lang_strings.php"
+			],
+			[
+				"menu",
+				"admin_menu_sitio.php"
+			],
+			[
+				"bac",
+				"backup.php"
+			],
+			[
+				"admin_c",
+				"admin_contenido.php"
+			],
+			[
+				"_html",
+				"includes\\pxl_mods\\data_item_html.php"
+			],
+			[
+				"pxl_di",
+				"includes\\pxl_mods\\data_item.php"
+			],
+			[
+				"cust",
+				"includes\\customfuncs.php"
+			],
+			[
+				"gr",
+				"gruntfile.js"
+			],
+			[
+				"modu add",
+				"includes\\pxl_mods\\modulos_add.php"
+			],
+			[
+				"_che",
+				"includes\\pxl_mods\\data_item_checkbox_ext.php"
+			],
+			[
+				"ajax",
+				"ajax.php"
+			],
+			[
+				"adminis",
+				"administradores.php"
+			],
+			[
+				"pan",
+				"admin_pantalla.php"
+			],
+			[
+				"ext2",
+				"includes\\pxl_mods\\data_item_ext2.php"
+			],
+			[
+				"admin_men",
+				"admin_menu_sitio.php"
+			],
+			[
+				"admin_g",
+				"admin_galerias.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"cus",
+				"includes\\customfuncs.php"
+			],
+			[
+				"autocom",
+				"includes\\pxl_mods\\data_item_autocomplete.php"
+			],
+			[
+				"maps",
+				"includes\\pxl_mods\\data_item_maps.php"
+			],
+			[
+				"autocomplete_ex",
+				"includes\\pxl_mods\\data_item_autocomplete_ext.php"
+			],
+			[
+				"images_ex",
+				"includes\\pxl_mods\\data_item_upload_images_ext.php"
+			],
+			[
+				"d_image.php",
+				"includes\\pxl_mods\\data_item_upload_image.php"
+			],
+			[
+				"upload.php",
+				"includes\\pxl_mods\\data_item_upload.php"
+			],
+			[
+				"select.php",
+				"includes\\pxl_mods\\data_item_select.php"
+			],
+			[
+				"che",
+				"includes\\pxl_mods\\data_item_checkbox_ext.php"
+			],
+			[
+				"_ext.p",
+				"includes\\pxl_mods\\data_item_ext.php"
+			],
+			[
+				"sft",
+				"sftp-config.json"
+			],
+			[
+				"mod re x",
+				"includes\\pxl_mods\\modulos_reporte_xlsx.php"
+			],
+			[
+				"mod rep",
+				"includes\\pxl_mods\\modulos_reporte.php"
+			],
+			[
+				"_admin",
+				"includes\\pxl_mods\\modulos_admin.php"
+			],
+			[
+				"admin_pa",
+				"admin_pantalla.php"
+			],
+			[
+				"admi",
+				"admin_pantalla.php"
+			],
+			[
+				"hue",
+				"huellas.php"
+			],
+			[
+				"_modulo_a",
+				"includes\\pxl_mods\\modulos_admin.php"
+			],
+			[
+				"admin",
+				"administradores.php"
+			],
+			[
+				"lan",
+				"admin_lang_strings.php"
+			],
+			[
+				"admin_con",
+				"admin_contenido.php"
+			],
+			[
+				"admin_co",
+				"admin_contenido.php"
+			],
+			[
+				"idio",
+				"admin_idiomas.php"
+			],
+			[
+				"gal",
+				"admin_galerias.php"
+			],
+			[
+				"data_item_up",
+				"includes\\pxl_mods\\data_item_upload_images_ext.php"
+			],
+			[
+				"upload_im",
+				"includes\\pxl_mods\\data_item_upload_image.js"
+			],
+			[
+				"idi",
+				"admin_idiomas.php"
+			],
+			[
+				"login",
+				"includes\\templates\\login.tpl"
+			],
+			[
+				"top",
+				"includes\\top.php"
+			],
+			[
+				"git",
+				"git.php"
+			],
+			[
+				"mod",
+				"includes\\pxl_mods\\modulos_mod.php"
+			],
+			[
+				"api",
+				"api.php"
+			],
+			[
+				"mai",
+				"includes\\mainscripts.php"
+			],
+			[
+				"main",
+				"includes\\mainscripts.php"
+			],
+			[
+				"olvi",
+				"olvido_pw.php"
+			],
+			[
+				"db_t",
+				"includes\\db_tables.php"
+			],
+			[
+				"modulos_mod",
+				"includes\\pxl_mods\\modulos_mod.php"
+			],
+			[
+				"filtr",
+				"includes\\pxl_mods\\filtro_item.php"
+			],
+			[
+				"home",
+				"home.php"
+			],
+			[
+				"auth",
+				"includes\\auth.php"
+			],
+			[
+				"filtro_i",
+				"includes\\pxl_mods\\filtro_item.php"
+			],
+			[
+				"admin_i",
+				"admin_idiomas.php"
+			],
+			[
+				"data_item_fe",
+				"includes\\pxl_mods\\data_item_fecha.php"
+			],
+			[
+				"fecha.",
+				"includes\\pxl_mods\\data_item_fecha.js"
+			],
+			[
+				"fecha",
+				"includes\\pxl_mods\\data_item_fecha_hora.js"
+			],
+			[
+				"fecha_ho",
+				"includes\\pxl_mods\\data_item_fecha_hora.php"
+			],
+			[
+				"admin_db",
+				"includes\\admin_db_soft.php"
+			],
+			[
+				"data_it",
+				"includes\\pxl_mods\\data_item.php"
+			],
+			[
+				"err",
+				"includes\\errormsgs.php"
+			],
+			[
+				"subi",
+				"subir_arch.php"
+			],
+			[
+				"grun",
+				"gruntfile.js"
+			],
+			[
+				"modulos_mo",
+				"includes\\pxl_mods\\modulos_mod.php"
+			],
+			[
+				"modulo",
+				"includes\\pxl_mods\\modulos_admin.php"
+			],
+			[
+				"data_ite",
+				"includes\\pxl_mods\\data_item.php"
+			],
+			[
+				"sub",
+				"subir_arch.php"
+			],
+			[
+				"fil",
+				"includes\\pxl_mods\\filtro_item.php"
+			],
+			[
+				"autoco",
+				"includes\\pxl_mods\\data_item_autocomplete_ext.php"
+			],
+			[
+				"modulo_ad",
+				"includes\\pxl_mods\\modulos_admin.php"
+			],
+			[
+				"aja",
+				"ajax.php"
+			],
+			[
+				"ajax_ad",
+				"includes\\pxl_mods\\ajax_add.js"
+			],
+			[
+				"edit",
+				"includes\\pxl_mods\\ajax_edit.js"
+			],
+			[
+				"_item",
+				"includes\\pxl_mods\\data_item.php"
+			],
+			[
+				"_selec",
+				"includes\\pxl_mods\\data_item_select.php"
+			],
+			[
+				"open",
+				"includes\\pxl_mods\\data_item_maps_open.php"
+			],
+			[
+				"add",
+				"includes\\pxl_mods\\modulos_add.php"
+			],
+			[
+				"modulo_pa",
+				"includes\\pxl_mods\\modulos_pass.php"
+			],
+			[
+				"perm",
+				"admin_permisos.php"
+			],
+			[
+				"administr",
+				"administradores.php"
+			],
+			[
+				"_pdf",
+				"includes\\pxl_mods\\modulos_reporte_pdf.php"
+			],
+			[
+				"modulos_reporte_xlsx",
+				"includes\\pxl_mods\\modulos_reporte_xlsx.php"
+			],
+			[
+				"modulos_re",
+				"includes\\pxl_mods\\modulos_reporte.php"
+			],
+			[
+				"mod_mo",
+				"includes\\pxl_mods\\modulos_mod.php"
+			],
+			[
+				"data_t",
+				"includes\\pxl_mods\\data_item.php"
+			],
+			[
+				"_mod",
+				"includes\\pxl_mods\\modulos_mod.php"
+			],
+			[
+				"_dis",
+				"includes\\pxl_mods\\data_item_display.php"
+			],
+			[
+				"modulo_mo",
+				"includes\\pxl_mods\\modulos_mod.php"
+			],
+			[
+				"chec",
+				"includes\\pxl_mods\\data_item_checkbox_ext.php"
+			],
+			[
+				"perfi",
+				"admin_perfil.php"
+			],
+			[
+				"filtro",
+				"includes\\pxl_mods\\filtro_item.php"
+			],
+			[
+				"db_",
+				"includes\\db_tables.php"
+			],
+			[
+				"checkbox_e",
+				"includes\\pxl_mods\\data_item_checkbox_ext.php"
+			],
+			[
+				"modu_m",
+				"includes\\pxl_mods\\modulos_mod.php"
+			],
+			[
+				"data_i",
+				"includes\\pxl_mods\\data_item.php"
+			],
+			[
+				"header",
+				"includes\\headers.php"
+			],
+			[
+				"_data_ite",
+				"includes\\pxl_mods\\data_item.php"
+			]
+		],
+		"width": 0.0
+	},*/
+	/*"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "flot",
+		"selected_items":
+		[
+			[
+				"flot",
+				"C:\\WEB PROYECTOS\\ETESA\\etesa_flota\\etesa_flota.sublime-project"
+			],
+			[
+				"m",
+				"C:\\WEB PROYECTOS\\RI GROUP\\mhpty\\mhpty.sublime-project"
+			],
+			[
+				"palme",
+				"C:\\WEB PROYECTOS\\PALMA\\palma_admin\\palma_admin.sublime-project"
+			],
+			[
+				"wea",
+				"C:\\WEB PROYECTOS\\WE ASSIST\\weassist_admin\\weassist-admin.sublime-project"
+			],
+			[
+				"sige",
+				"C:\\WEB PROYECTOS\\ETESA\\etesa_sigefi\\sigefi-admin.sublime-project"
+			],
+			[
+				"pal",
+				"C:\\WEB PROYECTOS\\PALMA\\palma_admin\\palma_admin.sublime-project"
+			],
+			[
+				"hidr",
+				"C:\\WEB PROYECTOS\\ETESA\\hidromet_admin\\hidromet-admin.sublime-project"
+			],
+			[
+				"pix",
+				"C:\\WEB PROYECTOS\\PIXEL MEDIA\\pixelmedia_website\\pixel-media-website.sublime-project"
+			],
+			[
+				"sifs",
+				"C:\\WEB PROYECTOS\\ETESA\\etesa_sifdai\\etesa_sifdai.sublime-project"
+			],
+			[
+				"test",
+				"C:\\WEB PROYECTOS\\FRAMEWORK\\pxl_test\\pxl_test.sublime-project"
+			],
+			[
+				"sele",
+				"C:\\WEB PROYECTOS\\GRUPO SELECTA\\selecta_site\\selecta-website.sublime-project"
+			],
+			[
+				"poi",
+				"C:\\WEB PROYECTOS\\RI GROUP\\poin_website\\poin_website.sublime-project"
+			],
+			[
+				"famo",
+				"C:\\WEB PROYECTOS\\FAMOSA\\famosa_admin\\famosa-admin.sublime-project"
+			],
+			[
+				"intr",
+				"C:\\WEB PROYECTOS\\PIXEL MEDIA\\pixelmedia_intranet\\intranet-pixel.sublime-project"
+			],
+			[
+				"mh",
+				"C:\\WEB PROYECTOS\\RI GROUP\\mhpty_admin\\mhpty_admin.sublime-project"
+			],
+			[
+				"hid",
+				"C:\\WEB PROYECTOS\\ETESA\\hidromet_admin\\hidromet-admin.sublime-project"
+			],
+			[
+				"poin",
+				"C:\\WEB PROYECTOS\\RI GROUP\\poin_website\\poin_website.sublime-project"
+			],
+			[
+				"lib",
+				"C:\\WEB PROYECTOS\\CND\\libranzas_etesa\\libranzas-etesa.sublime-project"
+			],
+			[
+				"",
+				"C:\\WEB PROYECTOS\\RI GROUP\\mhpty_admin\\mhpty_admin.sublime-project"
+			],
+			[
+				"smid",
+				"C:\\WEB PROYECTOS\\ETESA\\etesa_smid\\etesa_smid.sublime-project"
+			],
+			[
+				"famos",
+				"C:\\WEB PROYECTOS\\FAMOSA\\famosa_site\\famosa-website.sublime-project"
+			],
+			[
+				"vida",
+				"C:\\WEB PROYECTOS\\VIDATEC\\vidatec_pagos_admin\\vidatec_pagos_admin.sublime-project"
+			],
+			[
+				"fra",
+				"C:\\WEB PROYECTOS\\FRAMEWORK\\WWW\\framework-pixel.sublime-project"
+			],
+			[
+				"cepa",
+				"C:\\WEB PROYECTOS\\CEPAMED\\cepamed_sitio\\cepamed_sitio.sublime-project"
+			],
+			[
+				"jese",
+				"C:\\WEB PROYECTOS\\MARVIN\\jesedleolam\\jesedleolam.sublime-project"
+			],
+			[
+				"we",
+				"C:\\WEB PROYECTOS\\WE ASSIST\\weassist_admin\\weassist-admin.sublime-project"
+			],
+			[
+				"cig",
+				"C:\\WEB PROYECTOS\\CENTURY CIGARS\\century_cigars_admin\\century_cigars_admin.sublime-project"
+			],
+			[
+				"cent",
+				"C:\\WEB PROYECTOS\\CENTURY CIGARS\\century_cigars_web\\century_cigars_web.sublime-project"
+			],
+			[
+				"ci",
+				"C:\\WEB PROYECTOS\\CENTURY CIGARS\\century_cigars_admin\\century_cigars_admin.sublime-project"
+			],
+			[
+				"etes",
+				"C:\\WEB PROYECTOS\\ETESA\\etesa_web\\etesa_web.sublime-project"
+			],
+			[
+				"horm",
+				"C:\\WEB PROYECTOS\\HORMIGON\\hormigon_express\\hormigon-express.sublime-project"
+			],
+			[
+				"shev",
+				"C:\\WEB PROYECTOS\\SHEVET AHIM\\shevet_ahim\\shevet-software.sublime-project"
+			],
+			[
+				"w",
+				"C:\\WEB PROYECTOS\\WE ASSIST\\weassist_website\\weassist-website.sublime-project"
+			],
+			[
+				"reg",
+				"C:\\WEB PROYECTOS\\GRUPO RYG\\regesa_admin\\regesa_admin.sublime-project"
+			],
+			[
+				"sos",
+				"C:\\WEB PROYECTOS\\FURSYS\\sos_website\\sos_website.sublime-project"
+			],
+			[
+				"offi",
+				"C:\\WEB PROYECTOS\\FURSYS\\office_outlet_web\\office_outlet_web.sublime-project"
+			],
+			[
+				"api",
+				"C:\\WEB PROYECTOS\\GRUPO SELECTA\\grupo-selecta-api\\gspanama-tablets-api.sublime-project"
+			],
+			[
+				"se",
+				"C:\\WEB PROYECTOS\\GRUPO SELECTA\\selecta_site\\selecta-website.sublime-project"
+			],
+			[
+				"hido",
+				"C:\\WEB PROYECTOS\\ETESA\\hidromet_sitio\\hidromet-web.sublime-project"
+			],
+			[
+				"flo",
+				"C:\\WEB PROYECTOS\\ETESA\\etesa_flota\\etesa_flota.sublime-project"
+			],
+			[
+				"smi",
+				"C:\\WEB PROYECTOS\\ETESA\\etesa_smid\\etesa_smid.sublime-project"
+			],
+			[
+				"gru",
+				"C:\\WEB PROYECTOS\\GRUPO RYG\\regesa_website\\gruporg.sublime-project"
+			],
+			[
+				"palma",
+				"C:\\WEB PROYECTOS\\PALMA\\palma_admin\\palma_admin.sublime-project"
+			],
+			[
+				"palm",
+				"C:\\WEB PROYECTOS\\PALMA\\palma_admin\\palma_admin.sublime-project"
+			],
+			[
+				"the",
+				"C:\\WEB PROYECTOS\\THE COOL BRIDGE\\thecoolbridge\\thecoolbridge.sublime-project"
+			],
+			[
+				"famosa",
+				"C:\\WEB PROYECTOS\\FAMOSA\\famosa_site\\famosa-website.sublime-project"
+			],
+			[
+				"vid",
+				"C:\\WEB PROYECTOS\\VIDATEC\\vidatec_pagos\\vidatec_pagos.sublime-project"
+			],
+			[
+				"ss4",
+				"C:\\WEB PROYECTOS\\SUPER SERVICE\\super_service_4x4\\super_service_4x4.sublime-project"
+			],
+			[
+				"super",
+				"C:\\WEB PROYECTOS\\SUPER SERVICE\\super_service_admin\\super-service-admin.sublime-project"
+			],
+			[
+				"elb",
+				"C:\\WEB PROYECTOS\\RI GROUP\\el_botanico\\el_botanico.sublime-project"
+			],
+			[
+				"sup",
+				"C:\\WEB PROYECTOS\\SUPER SERVICE\\super_service_admin\\super-service-admin.sublime-project"
+			],
+			[
+				"fu",
+				"C:\\WEB PROYECTOS\\GRUPO SELECTA\\furniture_city_site\\furniture-city.sublime-project"
+			],
+			[
+				"menu_a",
+				"C:\\WEB PROYECTOS\\MENU.COM.PA\\menu_admin\\menu_admin.sublime-project"
+			],
+			[
+				"me",
+				"C:\\WEB PROYECTOS\\MEDICSITE\\medicsite_pagos\\medicsite.sublime-project"
+			],
+			[
+				"medi",
+				"C:\\WEB PROYECTOS\\MEDICSITE\\medicsite_pagos\\medicsite.sublime-project"
+			],
+			[
+				"super_se",
+				"C:\\WEB PROYECTOS\\SUPER SERVICE\\super_service_industrial\\super-service.sublime-project"
+			],
+			[
+				"gs",
+				"C:\\WEB PROYECTOS\\GRUPO SELECTA\\grupo_selecta\\gspanama-admin.sublime-project"
+			],
+			[
+				"she",
+				"C:\\WEB PROYECTOS\\SHEVET AHIM\\shevet_ahim\\shevet-software.sublime-project"
+			],
+			[
+				"lub",
+				"C:\\Users\\valla_000\\Desktop\\luba_store\\luba_store.sublime-project"
+			],
+			[
+				"hor",
+				"C:\\WEB PROYECTOS\\HORMIGON\\hormigon_express\\hormigon-express.sublime-project"
+			],
+			[
+				"mejo",
+				"C:\\WEB PROYECTOS\\ETESA\\etesa_mejoras\\etesa_mejoras.sublime-project"
+			],
+			[
+				"rii",
+				"C:\\WEB PROYECTOS\\RI GROUP\\riinmobiliaria_admin\\riinmobiliaria_admin.sublime-project"
+			],
+			[
+				"mena",
+				"C:\\WEB PROYECTOS\\MENA\\mena_website\\mena.sublime-project"
+			],
+			[
+				"mini",
+				"C:\\WEB PROYECTOS\\RI GROUP\\minidesign_website\\minidesign_website.sublime-project"
+			],
+			[
+				"admin",
+				"C:\\WEB PROYECTOS\\ETESA\\hidromet_admin\\hidromet-admin.sublime-project"
+			],
+			[
+				"GRUPO",
+				"C:\\WEB PROYECTOS\\GRUPO RYG\\regesa_website\\gruporg.sublime-project"
+			],
+			[
+				"hidro",
+				"X:\\WEB\\ETESA\\hidromet_admin_old\\hidromet-admin.sublime-workspace"
+			],
+			[
+				"rena",
+				"C:\\WEB PROYECTOS\\RENATO\\renato_admin\\renato-admin.sublime-project"
+			],
+			[
+				"hormi",
+				"C:\\WEB PROYECTOS\\HORMIGON\\hormigon_express\\hormigon-express.sublime-project"
+			],
+			[
+				"fur",
+				"C:\\WEB PROYECTOS\\GRUPO SELECTA\\furniture_city_site\\furniture-city.sublime-project"
+			],
+			[
+				"libra",
+				"C:\\WEB PROYECTOS\\ETESA\\libranzas_etesa\\libranzas-etesa.sublime-project"
+			],
+			[
+				"API",
+				"C:\\WEB PROYECTOS\\GRUPO SELECTA\\grupo-selecta-api\\gspanama-tablets-api.sublime-project"
+			],
+			[
+				"ib",
+				"C:\\WEB PROYECTOS\\PIXEL MEDIA\\pixelmedia_intranet\\intranet-pixel.sublime-project"
+			],
+			[
+				"icoa",
+				"C:\\WEB PROYECTOS\\ICOAT\\icoat_site\\icoat_site.sublime-project"
+			],
+			[
+				"libr",
+				"C:\\WEB PROYECTOS\\ETESA\\libranzas_etesa\\libranzas-etesa.sublime-project"
+			],
+			[
+				"doll",
+				"X:\\WEB\\DOLLAR\\dollar_pagos\\dollar_pagos.sublime-project"
+			],
+			[
+				"selec",
+				"X:\\WEB\\SELECTA\\WWW\\selecta-website.sublime-project"
+			],
+			[
+				"dollar",
+				"X:\\WEB\\DOLLAR\\dollar_pagos\\dollar_pagos.sublime-project"
+			],
+			[
+				"etesa",
+				"X:\\WEB\\ETESA\\WWW\\etesa-web.sublime-project"
+			],
+			[
+				"agre",
+				"X:\\WEB\\AGRECONSA\\agreconsa\\agreconsa.sublime-project"
+			],
+			[
+				"self",
+				"X:\\WEB\\FAMOSA\\famosa_self_service\\famosa_self_service.sublime-project"
+			],
+			[
+				"gspanama",
+				"X:\\WEB\\GRUPO_SELECTA\\WWW\\admin\\gspanama-admin.sublime-project"
+			],
+			[
+				"furn",
+				"X:\\WEB\\FURNITURE CITY\\furniture_city_site\\furniture-city.sublime-project"
+			],
+			[
+				"los",
+				"X:\\WEB\\LOS ANOS LOCOS\\losalocos_admin\\losalocos_admin.sublime-project"
+			],
+			[
+				"partido",
+				"X:\\WEB\\PARTIDO_PANAMENISTA\\partido_panamenista_site\\panamenistas_site.sublime-project"
+			],
+			[
+				"bota",
+				"X:\\WEB\\RI GROUP\\el_botanico\\el_botanico.sublime-project"
+			],
+			[
+				"pixel",
+				"X:\\WEB\\PIXEL MEDIA PUBLICIDAD\\WWW\\pixel-media-website.sublime-project"
+			],
+			[
+				"int",
+				"X:\\WEB\\PIXEL MEDIA PUBLICIDAD\\pixelmedia_intranet\\intranet-pixel.sublime-project"
+			],
+			[
+				"gspa",
+				"X:\\WEB\\GRUPO_SELECTA\\WWW\\admin\\gspanama-admin.sublime-project"
+			],
+			[
+				"table",
+				"X:\\WEB\\GRUPO_SELECTA\\WWW\\tablets\\gspanama-tablets.sublime-project"
+			],
+			[
+				"cepame",
+				"X:\\WEB\\CEPAMED\\cepamed_sitio\\cepamed_sitio.sublime-project"
+			],
+			[
+				"peti",
+				"X:\\WEB\\MOTORES PETISO ALESSANDRIA\\WWW ADMIN\\motores-petiso-admin.sublime-project"
+			],
+			[
+				"gspan",
+				"X:\\WEB\\GRUPO SELECTA\\WWW\\admin\\gspanama-admin.sublime-project"
+			],
+			[
+				"li",
+				"C:\\wamp\\www\\libranzas_coords\\libranzas_coords.sublime-project"
+			],
+			[
+				"f",
+				"X:\\WEB\\FURNITURE CITY\\WWW\\furniture-city.sublime-project"
+			],
+			[
+				"pana",
+				"X:\\WEB\\PANATRUCK\\WWW ADMIN\\panatruck_admin.sublime-project"
+			],
+			[
+				"sigef",
+				"X:\\WEB\\ETESA\\SIGEFI\\sigefi-admin.sublime-project"
+			],
+			[
+				"frame",
+				"X:\\WEB\\GRUPO SELECTA\\WWW\\framework\\framework-pixel.sublime-project"
+			],
+			[
+				"nat",
+				"X:\\WEB\\NATUZZI\\WWW\\natuzzi.sublime-project"
+			],
+			[
+				"sig",
+				"X:\\WEB\\ETESA\\SIGEFI_FW\\sigefi-framework.sublime-project"
+			],
+			[
+				"ins",
+				"X:\\WEB\\PIXEL MEDIA PUBLICIDAD\\INTRANET\\WWW2\\intranet-pixel.sublime-project"
+			],
+			[
+				"hog",
+				"X:\\WEB\\HORMIGON EXPRESS\\WWW ENCUESTAS\\hormigon-encuestas.sublime-project"
+			],
+			[
+				"intra",
+				"X:\\WEB\\PIXEL MEDIA PUBLICIDAD\\INTRANET\\WWW2\\intranet-pixel.sublime-project"
+			],
+			[
+				"gr",
+				"X:\\WEB\\GRUPO SELECTA\\WWW INTRANET\\gspanama-intranet.sublime-project"
+			],
+			[
+				"instr",
+				"X:\\WEB\\GRUPO SELECTA\\WWW INTRANET FW\\intranet-gspanama-fw.sublime-project"
+			],
+			[
+				"fw",
+				"X:\\WEB\\GRUPO SELECTA\\WWW INTRANET FW\\intranet-gspanama-fw.sublime-project"
+			],
+			[
+				"vare",
+				"X:\\WEB\\VARELA HERMANOS\\WWW\\varela-hermanos-website.sublime-project"
+			],
+			[
+				"lu",
+				"C:\\Users\\valla_000\\Desktop\\luba_store\\luba.sublime-project"
+			],
+			[
+				"in",
+				"X:\\WEB\\GRUPO SELECTA\\WWW INTRANET\\gspanama-intranet.sublime-project"
+			],
+			[
+				"luba",
+				"C:\\Users\\valla_000\\Desktop\\luba_store\\luba.sublime-project"
+			]
+		],
+		"width": 380.0
+	},*/
+	/*"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},*/
+	/*"selected_group": 0,*/
+	/*"settings":
+	{
+	},*/
+	/*"show_minimap": true,*/
+	/*"show_open_files": false,*/
+	/*"show_tabs": true,*/
+	/*"side_bar_visible": true,*/
+	/*"side_bar_width": 305.0,*/
+	/*"status_bar_visible": true,*/
+	/*"template_settings":
+	{
+	}*/
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+}

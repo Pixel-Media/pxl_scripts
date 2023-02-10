@@ -283,7 +283,7 @@ function id_slug($slug, $tabla, $nombre_slug="slug"){
     }
 }
 }
-if(!function_exists('redirect')){
+if(!function_exists('redirect') and !strstr($_SERVER['PHP_SELF'], 'adminer.php')){
 /**
  * Redirige automaticamente a la pagina que se envia, es null se regresa a index.php
  * @param  [type] $dir [description]
